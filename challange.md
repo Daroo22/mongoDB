@@ -15,7 +15,7 @@ Ans: show dbs
 
 Prompt: What command would you use to create a database called burgers?
 
-Ans: db.burgers
+Ans: use burgers
 
 Prompt: What command would you use to add the collection burger to your burgers database?
 
